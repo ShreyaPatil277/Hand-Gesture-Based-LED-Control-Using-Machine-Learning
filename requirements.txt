@@ -1,0 +1,7 @@
+Tools & Libraries
+- Python 3.10
+- OpenCV
+- cvzone
+- mediapipe
+- pyfirmata
+- Arduino Uno
